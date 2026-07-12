@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Nishanth-0007/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
