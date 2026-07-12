@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Nishanth-0007/LeetCode/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
