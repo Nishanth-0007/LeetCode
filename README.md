@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nishanth-0007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Nishanth-0007/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
@@ -23,9 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nishanth-0007/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nishanth-0007/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Nishanth-0007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Nishanth-0007/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
