@@ -1,9 +1,45 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
 
+        roman = {
+            1 : "I",
+            5 : "V",
+            10 : "X",
+            50 : "L",
+            100 : "C",
+            500 : "D",
+            1000 : "M"
+        }
+
         op = ""
 
         if num > 999:
+            temp = int(str(num)[0])
+            op += "M" * temp
+            num -= temp * 1000
+
+        while num > 0:
+            leng = len(str(num))
+            temp = int(str(num)[0])
+            mul = int("1" + "0" * (leng-1))
+            num -= temp * mul
+            l1 = roman[mul]
+            l2 = roman[5 * mul]
+            l3 = roman[mul * 10]
+            if temp == 9:
+                op += l1 + l3
+            elif temp == 4:
+                op += l1 + l2
+            else:
+                if temp > 5:
+                    op += l2 + l1*(temp-5)
+                elif temp < 5:
+                    op += l1 * (temp)
+                else:
+                    op += l2
+
+
+        '''if num > 999:
             temp = int(str(num)[0])
             op += "M" * temp
             num -= temp * 1000
@@ -51,7 +87,7 @@ class Solution:
                 else:
                     op += "V"
 
-
+'''
         return op
 
 
