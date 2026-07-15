@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishanth-0007/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Nishanth-0007/LeetCode/tree/master/0066-plus-one) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishanth-0007/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Nishanth-0007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nishanth-0007/LeetCode/tree/master/0013-roman-to-integer) |
 ## Binary Search
