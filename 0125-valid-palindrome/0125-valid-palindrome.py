@@ -8,7 +8,4 @@ class Solution:
                 t += i
             
         
-        if t == t[::-1]:
-            return True
-        
-        return False
+        return t == t[::-1]
