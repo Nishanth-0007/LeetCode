@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nishanth-0007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishanth-0007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nishanth-0007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nishanth-0007/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Nishanth-0007/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishanth-0007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nishanth-0007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
