@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nishanth-0007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nishanth-0007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishanth-0007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishanth-0007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nishanth-0007/LeetCode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Nishanth-0007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishanth-0007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishanth-0007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nishanth-0007/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishanth-0007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nishanth-0007/LeetCode/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishanth-0007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
